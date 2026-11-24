@@ -9,8 +9,6 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PutYourBae&style=for-the-badge&color=1d6fa4&label=PROFILE+VIEWS)](https://github.com/PutYourBae)
-[![Status](https://img.shields.io/badge/Status-Open_to_Collaborate-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
-[![Location](https://img.shields.io/badge/Location-Indonesia-1d6fa4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
 
 </div>
 
@@ -43,29 +41,23 @@ class AgustianPutra:
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,rust,html,css&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,rust,html,css&perline=6)](https://skillicons.dev)
 
 **Frontend & Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,react,tailwind,vite&perline=6)](https://skillicons.dev)
+[![Frontend & Backend](https://skillicons.dev/icons?i=nodejs,express,flask,react,tailwind,vite&perline=6)](https://skillicons.dev)
 
 **Database & Cloud**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,vercel,docker,git&perline=6)](https://skillicons.dev)
+[![Database & Cloud](https://skillicons.dev/icons?i=postgres,supabase,mysql,vercel,docker,git&perline=6)](https://skillicons.dev)
 
 **ML & Data Science**
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=6)](https://skillicons.dev)
+[![ML & Data Science](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,numpy,pandas&perline=6)](https://skillicons.dev)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logoColor=white)
+**Tools & Environment**
 
-**Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=tauri,vscode,figma,postman,linux,github&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=tauri,vscode,figma,postman,linux,github&perline=6)](https://skillicons.dev)
 
 </div>
 
@@ -112,9 +104,11 @@ class AgustianPutra:
 
 <div align="center">
 
-[![Rust](https://img.shields.io/badge/Rust-Systems_Programming-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
-[![LLMs](https://img.shields.io/badge/LLMs-Prompt_Engineering-1d6fa4?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
-[![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD_Pipelines-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
+[![Currently Learning](https://skillicons.dev/icons?i=rust,pytorch,githubactions&theme=dark)](https://github.com/PutYourBae)
+
+<br/>
+
+**Rust** &nbsp;•&nbsp; **PyTorch / Deep Learning** &nbsp;•&nbsp; **DevOps & CI/CD**
 
 </div>
 
@@ -138,11 +132,19 @@ class AgustianPutra:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustianputra2108@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-PutYourBae-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PutYourBae)
+<a href="mailto:agustianputra2108@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="44" height="44" alt="Gmail" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/PutYourBae">
+  <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" />
+</a>
 
 <br/><br/>
+
+**Email:** [agustianputra2108@gmail.com](mailto:agustianputra2108@gmail.com)
+
+<br/>
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
