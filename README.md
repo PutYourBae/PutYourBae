@@ -9,10 +9,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PutYourBae&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/PutYourBae)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/PutYourBae?style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=1a1a2e)](https://github.com/PutYourBae?tab=followers)
-&nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/PutYourBae?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=1a1a2e)](https://github.com/PutYourBae)
+![Open to Work](https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=for-the-badge&logo=handshake&logoColor=white)
+![Location](https://img.shields.io/badge/📍-Indonesia-f59e0b?style=for-the-badge)
 
 </div>
 
@@ -58,13 +56,14 @@ class AgustianPutra:
 **ML & Data Science**
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=6)](https://skillicons.dev)
-&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
 
-**Tools & Others**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logoColor=white)
+
+**Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=tauri,vscode,figma,postman,linux,github&perline=6)](https://skillicons.dev)
 
@@ -103,17 +102,19 @@ class AgustianPutra:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PutYourBae&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true&area_color=7c3aed" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PutYourBae&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
 
-## 🏆 GitHub Trophies
+## 🌱 Currently Learning & Exploring
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PutYourBae&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+![Rust](https://img.shields.io/badge/Rust-Systems_Programming-000000?style=for-the-badge&logo=rust&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM-Prompt_Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD_Pipelines-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -137,13 +138,9 @@ class AgustianPutra:
 
 <div align="center">
 
-<a href="mailto:agustianputra2108@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-agustianputra2108-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustianputra2108@gmail.com)
 &nbsp;
-<a href="https://github.com/PutYourBae">
-  <img src="https://img.shields.io/badge/GitHub-PutYourBae-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-PutYourBae-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PutYourBae)
 
 <br/><br/>
 
