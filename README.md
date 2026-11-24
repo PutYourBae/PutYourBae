@@ -9,8 +9,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PutYourBae&style=for-the-badge&color=1d6fa4&label=PROFILE+VIEWS)](https://github.com/PutYourBae)
-![Open to Work](https://img.shields.io/badge/Open_to-Collaborate-22c55e?style=for-the-badge&logo=github&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Indonesia-1d6fa4?style=for-the-badge)
+[![Status](https://img.shields.io/badge/Status-Open_to_Collaborate-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
+[![Location](https://img.shields.io/badge/Location-Indonesia-1d6fa4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
 
 </div>
 
@@ -112,9 +112,9 @@ class AgustianPutra:
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-Systems_Programming-000000?style=for-the-badge&logo=rust&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM-Prompt_Engineering-1d6fa4?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD_Pipelines-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white)
+[![Rust](https://img.shields.io/badge/Rust-Systems_Programming-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
+[![LLMs](https://img.shields.io/badge/LLMs-Prompt_Engineering-1d6fa4?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
+[![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD_Pipelines-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1a2e)](https://github.com/PutYourBae)
 
 </div>
 
