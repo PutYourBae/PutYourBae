@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Agustian%20Putra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a2c,50:0d2f4f,100:0a2540&height=200&section=header&text=Agustian%20Putra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Agustian+Putra+%F0%9F%91%8B;Full-Stack+%26+ML+Developer;Building+tools+that+matter+%F0%9F%9A%80;Open+to+collaborate!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Agustian+Putra+%F0%9F%91%8B;Full-Stack+%26+ML+Developer;Building+tools+that+matter+%F0%9F%9A%80;Open+to+collaborate!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PutYourBae&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/PutYourBae)
+[![Profile Views](https://komarev.com/ghpvc/?username=PutYourBae&style=for-the-badge&color=1d6fa4&label=PROFILE+VIEWS)](https://github.com/PutYourBae)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=for-the-badge&logo=github&logoColor=white)
-![Location](https://img.shields.io/badge/Indonesia-%F0%9F%87%AE%F0%9F%87%A9-f59e0b?style=for-the-badge)
+![Location](https://img.shields.io/badge/Indonesia-%F0%9F%87%AE%F0%9F%87%A9-1d6fa4?style=for-the-badge)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d6fa4,100:60a5fa&height=3" width="100%"/>
 
 ## 🧬 About Me
 
@@ -35,7 +35,7 @@ class AgustianPutra:
         print("Thanks for visiting my profile! Let's build something great.")
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d6fa4,100:60a5fa&height=3" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -69,7 +69,7 @@ class AgustianPutra:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d6fa4,100:60a5fa&height=3" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -86,39 +86,39 @@ class AgustianPutra:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d6fa4,100:60a5fa&height=3" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=PutYourBae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=PutYourBae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=1d6fa4&text_color=c9d1d9"/>
 &nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutYourBae&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutYourBae&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=PutYourBae&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=PutYourBae&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=60a5fa&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PutYourBae&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PutYourBae&bg_color=0d1117&color=60a5fa&line=1d6fa4&point=f59e0b&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d6fa4,100:60a5fa&height=3" width="100%"/>
 
 ## 🌱 Currently Learning & Exploring
 
 <div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-Systems_Programming-000000?style=for-the-badge&logo=rust&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM-Prompt_Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM-Prompt_Engineering-1d6fa4?style=for-the-badge&logo=openai&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD_Pipelines-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d6fa4,100:60a5fa&height=3" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -132,7 +132,7 @@ class AgustianPutra:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d6fa4,100:60a5fa&height=3" width="100%"/>
 
 ## 📫 Let's Connect
 
@@ -148,4 +148,4 @@ class AgustianPutra:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,50:0d2f4f,100:071a2c&height=120&section=footer" width="100%"/>
