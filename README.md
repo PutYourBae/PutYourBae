@@ -9,8 +9,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PutYourBae&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/PutYourBae)
-![Open to Work](https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=for-the-badge&logo=handshake&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Indonesia-f59e0b?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=for-the-badge&logo=github&logoColor=white)
+![Location](https://img.shields.io/badge/Indonesia-%F0%9F%87%AE%F0%9F%87%A9-f59e0b?style=for-the-badge)
 
 </div>
 
