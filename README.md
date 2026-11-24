@@ -1,20 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Agustian%20Putra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Indonesia%20🇮🇩&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Agustian%20Putra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Agustian+Putra+👋;Full-Stack+%26+ML+Developer;Building+tools+that+matter+🚀;Open+to+collaborate!+🤝)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Agustian+Putra+%F0%9F%91%8B;Full-Stack+%26+ML+Developer;Building+tools+that+matter+%F0%9F%9A%80;Open+to+collaborate!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PutYourBae&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/PutYourBae)
-[![GitHub followers](https://img.shields.io/github/followers/PutYourBae?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/PutYourBae?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/PutYourBae?style=for-the-badge&color=f59e0b&labelColor=1a1a2e&label=TOTAL+STARS)](https://github.com/PutYourBae)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/PutYourBae?style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=1a1a2e)](https://github.com/PutYourBae?tab=followers)
+&nbsp;
+[![GitHub User's stars](https://img.shields.io/github/stars/PutYourBae?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=1a1a2e)](https://github.com/PutYourBae)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
 
 ## 🧬 About Me
 
@@ -30,10 +34,10 @@ class AgustianPutra:
     hobbies    = ["Gaming 🎮", "FiveM RP 🗺️", "Tinkering with ideas 💡"]
 
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something great together.")
+        print("Thanks for visiting my profile! Let's build something great.")
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -51,13 +55,14 @@ class AgustianPutra:
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mysql,vercel,docker,git&perline=6)](https://skillicons.dev)
 
-**ML & CV**
+**ML & Data Science**
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=6)](https://skillicons.dev)
+&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
 
 **Tools & Others**
 
@@ -65,7 +70,7 @@ class AgustianPutra:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -82,36 +87,37 @@ class AgustianPutra:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PutYourBae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutYourBae&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=PutYourBae&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutYourBae&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PutYourBae&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=PutYourBae&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PutYourBae&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PutYourBae&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true&area_color=7c3aed" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PutYourBae&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=PutYourBae&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -120,21 +126,26 @@ class AgustianPutra:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PutYourBae/PutYourBae/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PutYourBae/PutYourBae/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/PutYourBae/PutYourBae/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PutYourBae/PutYourBae/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3" width="100%"/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-agustianputra2108%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustianputra2108@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PutYourBae-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PutYourBae)
+<a href="mailto:agustianputra2108@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-agustianputra2108-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/PutYourBae">
+  <img src="https://img.shields.io/badge/GitHub-PutYourBae-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
